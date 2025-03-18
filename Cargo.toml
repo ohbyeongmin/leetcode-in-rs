@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["easy/two_sum", "medium/add_two_numbers"]
