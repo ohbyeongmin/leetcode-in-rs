@@ -1,3 +1,3 @@
 [workspace]
 resolver = "2"
-members = [ "easy/palindrome_number","easy/two_sum", "medium/add_two_numbers"]
+members = [ "easy/palindrome_number", "easy/roman_to_integer","easy/two_sum", "medium/add_two_numbers"]
